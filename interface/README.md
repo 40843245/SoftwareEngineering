@@ -22,6 +22,7 @@ GOMS stands for
 
 ###### Example
 Example of GOMS.
+
 ![image](https://github.com/40843245/SoftwareEngineering/assets/75050655/b5d2aee7-882c-4a77-9760-2efd96a2ea3a)
 
 
