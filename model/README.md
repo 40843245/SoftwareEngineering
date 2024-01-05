@@ -47,6 +47,9 @@ For details on open source software development, visit
 https://en.wikipedia.org/wiki/Open-source_software_development
 
 ## Agile model
+### Intro
+![image](https://github.com/40843245/SoftwareEngineering/assets/75050655/016b2cb8-b0da-4487-936c-d946b1ba48b0)
+
 ### Main concept
 1. Documentation continuously: Documentation is made throughout the life-cycle, in parallel to the creation of the rest of the solution.
 2. Documentation late: Documentation is made as late as possible.
@@ -62,5 +65,9 @@ it is very hard to apply it due to its limitations.
 3. Members of teams can NOT share and collaborate on models. (To satisfy the 4th item in main concept section)
 4. When modeling skilling are weak or even lacking.
 
+### Source of figure
+From the slides of the course Introduction to software engineering in NFU.
+
 ### See Also
 https://en.wikipedia.org/wiki/Agile_modeling
+
