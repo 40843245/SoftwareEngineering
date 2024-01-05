@@ -45,3 +45,22 @@ Note that, NOT be confused with open source software development, even though th
 For details on open source software development, visit
 
 https://en.wikipedia.org/wiki/Open-source_software_development
+
+## Agile model
+### Main concept
+1. Documentation continuously: Documentation is made throughout the life-cycle, in parallel to the creation of the rest of the solution.
+2. Documentation late: Documentation is made as late as possible.
+3. Executable specifications: Requirements are specified in the form of executable "customer tests", instead of non-executable "static" documentation.
+4. Single source information: Infomation must be only available at one place, avoiding the confusion to user when using the module.
+
+### Limitation
+Although there are many advantages than the other software development, such as the above items in main concept section, 
+it is very hard to apply it due to its limitations.
+
+1. On large teams ( >= 30 people ).
+2. Without adequate tooling support.
+3. Members of teams can NOT share and collaborate on models. (To satisfy the 4th item in main concept section)
+4. When modeling skilling are weak or even lacking.
+
+### See Also
+https://en.wikipedia.org/wiki/Agile_modeling
