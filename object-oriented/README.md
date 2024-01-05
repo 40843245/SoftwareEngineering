@@ -14,5 +14,23 @@ Encapsulation encapuslate the member of class so that restrict the access of mem
 Overloading refers declares many function or method etc with same identifier but either with different number of parameter or with different type of parameter (or both).
 
 #### Overriding
-Overriding refers redefines the method in a class with same identifier to its parent class.
+Overriding refers redefines an existing method in a class with same identifier to its parent class.
+
+#### Overloading v.s. Overriding
+1. Overloading:
+
+       different number of parameter or different type of parameter or both.
+
+       NOT neccessary that base class has parent class and its parent class has the method.
+   
+3. Overriding:
+  
+       both same number of parameter and same type of parameter.
+
+       Neccessary that base class has parent class and its parent class has the method.
+
+### See Also
+For more details, see my note in CPP repo at GitHub, which availables at:
+
+https://github.com/40843245/CPP/tree/main/Object/OOP
 
